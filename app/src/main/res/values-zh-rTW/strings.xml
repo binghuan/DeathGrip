@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">死亡之握</string>
+    <string name="dialog_msg">使用保護軟殼?</string>
+    
+    <string name="dialog_option_yes">Yes</string>
+    <string name="dialog_option_no">No</string>
+    
+    
+	<string name="menu_about">關於</string>
+    <string name="menu_more_apps">其它作品</string>
+    
+    <string name="activity_not_found">目標應用程式沒有存在於您的裝置之中</string>
+    
+    <string name="copy_right">©2012 Studio Bing-Huan</string>
+    <string name="version">版本</string>
+    <string name="feedback">建議? 問題? 回報?</string>
+    <string name="sendmail">寄電子郵件給我</string>
+        
+</resources>

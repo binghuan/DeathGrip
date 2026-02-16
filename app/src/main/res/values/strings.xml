@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DeathGripActivity!</string>
+    <string name="app_name">The Death Grip</string>
+    
+    
+    <string name="dialog_msg">Use the bumper ?</string>
+    
+    <string name="dialog_option_yes">Yes</string>
+    <string name="dialog_option_no">No</string>
+    
+    
+	<string name="menu_about">About</string>
+    <string name="menu_more_apps">View more applications</string>
+    
+    <string name="activity_not_found">Application is not installed on your phone</string>
+    
+    <string name="copy_right">©2010 Studio Bing-Huan</string>
+    <string name="version">Version</string>
+    <string name="feedback">Suggestions? Issue? Feedback?</string>
+    <string name="sendmail">Send email to me</string>
+        
+</resources>
