@@ -4,6 +4,8 @@
 
 This project is a humorous take on the antenna gate issue from around 2010.
 
+![Demo](./README/demo.png)
+
 ## Features
 
 *   **Interactive Signal Simulation:** Touch and hold the "death area" (the bottom left corner of the phone frame) to watch the signal bars drop, simulating the signal loss issue.
